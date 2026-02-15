@@ -79,11 +79,10 @@ Most traders react late. **Polar is built to surface signal early.**
 
 ## 🛠 Installation
 
-1.  Go to the **[Chrome Web Store](#)** (Link coming soon).
+1.  Go to the **[Chrome Web Store](https://chromewebstore.google.com/detail/polar/dnoghddfjhhaeipmmkpagkanlbmbniij)**.
 2.  Click **"Add to Chrome"**.
 3.  Navigate to any market on [Polymarket.com](https://polymarket.com).
 4.  Polar activates automatically. ❄️
-
 ---
 
 ## 🎯 Built For
